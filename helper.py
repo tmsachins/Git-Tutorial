@@ -1,4 +1,2 @@
-str = "work started on helper branch"
-str2 = "Worked finished on helper branch"
+a = "helper 2 started"
 
-print(a)
